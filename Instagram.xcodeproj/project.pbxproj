@@ -40,6 +40,10 @@
 		EE94E6022B14F7BB00EE350E = {
 			isa = PBXGroup;
 			children = (
+				EE94E6232B14F7E900EE350E /* Model */,
+				EE94E6242B14F81E00EE350E /* View */,
+				EE94E6252B14F82F00EE350E /* Controllers */,
+				EE94E6222B14F7D600EE350E /* Resources */,
 				EE94E60D2B14F7BC00EE350E /* Instagram */,
 				EE94E60C2B14F7BC00EE350E /* Products */,
 			);
@@ -65,6 +69,34 @@
 				EE94E61C2B14F7BE00EE350E /* Info.plist */,
 			);
 			path = Instagram;
+			sourceTree = "<group>";
+		};
+		EE94E6222B14F7D600EE350E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		EE94E6232B14F7E900EE350E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		EE94E6242B14F81E00EE350E /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		EE94E6252B14F82F00EE350E /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
